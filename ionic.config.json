@@ -1,0 +1,7 @@
+{
+  "name": "capAppDarkScreenStartup",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
